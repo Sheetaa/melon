@@ -6,6 +6,8 @@
 import React from 'react';
 import {create} from 'melon-core/classname/cxBuilder';
 
+import './css/Card';
+
 const cx = create('Card');
 
 /* eslint-disable fecs-prefer-class */

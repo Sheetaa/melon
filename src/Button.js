@@ -7,6 +7,8 @@ import React from 'react';
 import {create} from 'melon-core/classname/cxBuilder';
 import TouchRipple from './ripples/TouchRipple';
 
+import ButtonStyle from './css/Button';
+
 const cx = create('Button');
 
 /* eslint-disable fecs-prefer-class */

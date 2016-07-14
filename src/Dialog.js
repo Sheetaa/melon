@@ -13,6 +13,8 @@ import {create} from 'melon-core/classname/cxBuilder';
 
 import {Motion, spring} from 'react-motion';
 
+import DialogStyle from './css/Dialog';
+
 const cx = create('Dialog');
 
 export default class Dialog extends Component {
